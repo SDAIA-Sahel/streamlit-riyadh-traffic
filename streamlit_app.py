@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 from collections import defaultdict, deque
-from tqdm import tqdm
+#from tqdm import tqdm
 import supervision as sv
 from ultralytics import YOLO
 import tempfile
